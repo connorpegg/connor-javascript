@@ -12,7 +12,7 @@
 // console.log("Its the weekend")
 
 // var password = "javascript"
-//  var res = password.length
+// var res = password.length
 // console.log(res)
 // if (password.length >= 8) {
 //     console.log("password is fine")

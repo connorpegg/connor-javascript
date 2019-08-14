@@ -80,3 +80,32 @@
 // Map orders the numbers from lowest to highest.
 // let numbers = [4, 9, 16, 25]
 // var x = numbers.map(math.sqrt)
+
+//----FUNCTIONS----
+
+//  const coffeeOrder = (size, typeOfDrink) => {
+//      console.log(`Order recieved: ${size} ${typeOfDrink}`)
+//  }
+//  coffeeOrder("tall","latte")
+
+// let orderCount = 1;
+// const takeorder = (topping,topping2,topping3) => {
+//     console.log(`pizza with ${topping} ${topping2} ${topping3}. Order
+//     number ${orderCount}`);
+//     orderCount++;
+// }
+// takeorder(`pineapple`,`ham`,`cheese`)
+// takeorder("salami","pepperoni","jalapeno")
+
+
+// let balance = 1000
+// let pinnumbcorrect = 7777
+// const cashwithdrawal = (pinnumbcorrect, cash) => {
+//  if (balance < cash || pinnumbcorrect != 
+//  pinnumber) 
+//  console.log ("transaction failed")
+//  }
+//  else{
+//     console.log(`you have withdrawn ${cash}`)
+
+// cashwithdrawal (7777,1000)}
